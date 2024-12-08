@@ -1,4 +1,4 @@
-// File: /Users/jee/Coding/jsxr/chatseeweb/chatsee/app/page.js
+// File: /Users/jee/Coding/jsxr/celebchats_web/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

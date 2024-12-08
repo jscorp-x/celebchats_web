@@ -3,14 +3,14 @@ import { getAnalytics } from "firebase/analytics";
 import {getAuth,GoogleAuthProvider} from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDhZGPvkHib0VyUJdxgArsOV2cZ6dMNapc",
-    authDomain: "chat-stories-84643.firebaseapp.com",
-    projectId: "chat-stories-84643",
-    storageBucket: "chat-stories-84643.appspot.com",
-    messagingSenderId: "1059425604876",
-    appId: "1:1059425604876:web:4ea9ab174465438ef9a529",
-    measurementId: "G-LV93734C8S"
-  };
+  apiKey: process.env.FIREBASE_API_KEY,
+  authDomain: "celebchats-753f8.firebaseapp.com",
+  projectId: "celebchats-753f8",
+  storageBucket: "celebchats-753f8.firebasestorage.app",
+  messagingSenderId: "942243350645",
+  appId: "1:942243350645:web:888ecb289aa82358de103c",
+  measurementId: "G-2S9E1J3RXJ"
+};
 
 // Initialize Firebase
 // Initialize Firebase
