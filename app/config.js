@@ -3,8 +3,8 @@ import { getAnalytics } from "firebase/analytics";
 import {getAuth,GoogleAuthProvider} from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBJCsea-7-g4kDNFDBHdRfgh9VL-LOxnTY",
-  // apiKey: process.env.FIREBASE_API_KEY,
+  // apiKey: "AIzaSyBJCsea-7-g4kDNFDBHdRfgh9VL-LOxnTY",
+  apiKey: process.env.FIREBASE_API_KEY,
   authDomain: "celebchats-753f8.firebaseapp.com",
   projectId: "celebchats-753f8",
   storageBucket: "celebchats-753f8.firebasestorage.app",
