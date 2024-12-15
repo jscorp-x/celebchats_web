@@ -7,7 +7,9 @@ export default function PrivacyPolicy() {
           <h1 className="pt-96">Privacy Policy</h1>
           <h1 className="pt-96">Privacy Policy</h1>
           <h1 className="pt-96">Privacy Policy</h1>
-          <p>Last updated: November 8, 2024</p>
+          <p>Last updated: December 15, 2024</p>
+          <h1> Disclaimer: The app chat conversations are not real </h1>
+          <p> All the chat conversations are generated and edited for entertainment purpose </p>
           <p>
             This Privacy Policy describes Our policies and procedures on the collection,
             use and disclosure of Your information when You use the Service and tells
@@ -109,6 +111,9 @@ export default function PrivacyPolicy() {
               </p>
             </li>
           </ul>
+          <h2>Collecting the user activity in app</h2>
+          <h3>Types of Data Collected</h3>
+          <p>We may collect the user activities when using the app to improve the user experience or analyze the app</p>
           <h2>Collecting and Using Your Personal Data</h2>
           <h3>Types of Data Collected</h3>
           <h4>Personal Data</h4>
